@@ -28,9 +28,9 @@ const msgerForm = get(".msger-inputarea");
 const msgerInput = get(".msger-input");
 const msgerChat = get(".msger-chat");
 // Icons made by Freepik from www.flaticon.com
-const BOT_IMG = "static/img/mhcicon.png";
+const BOT_IMG = "static/img/chatbot-logo.png";
 const PERSON_IMG = "static/img/person.png";
-const BOT_NAME = "    Psychiatrist Bot";
+const BOT_NAME = "    Md. Johurul Islam's Bot";
 const PERSON_NAME = "You";
 msgerForm.addEventListener("submit", event => {
 event.preventDefault();
